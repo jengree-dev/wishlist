@@ -30,8 +30,8 @@ You can add wishes, share your list with friends and let them pick the perfect g
 - **Vue 3** - Composition API, `<script setup>`
 - **Vuetify 3** - Material Design components
 - **Vite** - Build tool and dev server
+- **Supabase** - Backend
 - **TypeScript** - Typing (planned)
-- **Supabase** - Backend (planned)
 
 ## Why this project?
 
