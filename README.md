@@ -2,7 +2,7 @@
 
 A pet project wishlist built with Vue.js. Created for frontend development practice and to demonstrate skills with modern technology stack.
 
-**Status**: Actively in development 🔥
+**Status**: Actively in development 🚀
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
@@ -10,18 +10,20 @@ A pet project wishlist built with Vue.js. Created for frontend development pract
 
 ## What is this?
 
-A simple web application for creating wish lists. You can add wishes, share your list with friends, and mark fulfilled dreams.
+A simple web application for creating wish lists for a birthdat or other pleasant event. 
+You can add wishes, share your list with friends and let them pick the perfect gift for you.
 
 ## Features (done and planned)
 
 - ✅ Supabase integration (backend)
 - ✅ Add wish
-- 🚧 Add wishList
-- 🚧 Link wiah and wishList
+- 🚀 Add wishList
+- 🚧 Link wish and wishList
+- 🚧 Edit wishList (checking items)
 - 🚧 Authorisation
 - 🚧 Create authentication policy (RLS for Supabase)
 - 🚧 Share list via link
-- 🚧 Email notification
+- 🚧 Email notifications
 
 ## Tech Stack
 
