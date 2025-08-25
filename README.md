@@ -2,7 +2,7 @@
 
 A pet project wishlist built with Vue.js. 
 Created for frontend development practice and to demonstrate skills with modern technology stack,
-and (!) with the intention of creating something little bit really useful.
+and (!) with the intention of creating something truly useful.
 
 **Status**: Actively in development 🚀
 
