@@ -1,17 +1,15 @@
 # Wishlist Project 🎁
 
-A pet project wishlist built with Vue.js. Created for frontend development practice and to demonstrate skills with modern technology stack.
+A pet project wishlist built with Vue.js. 
+Created for frontend development practice and to demonstrate skills with modern technology stack,
+and (!) with the intention of creating something little bit really useful.
 
 **Status**: Actively in development 🚀
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
 ## What is this?
 
-A simple web application for creating wish lists for a birthdat or other pleasant event. 
-You can add wishes, share your list with friends and let them pick the perfect gift for you.
+A simple web application for creating wish lists for a birthday or other pleasant event. 
+You can add wishes, share your list with friends, and let them pick the perfect gift for you.
 
 ## Features (done and planned)
 
@@ -33,12 +31,6 @@ You can add wishes, share your list with friends and let them pick the perfect g
 - **Supabase** - Backend
 - **TypeScript** - Typing (planned)
 
-## Why this project?
-
-- Practice Vue 3 and Composition API
-- Improve Vuetify skills as a UI framework
-- Build a portfolio project
-
 ## What already works
 
 - Basic Vue 3 structure
@@ -54,7 +46,7 @@ You can add wishes, share your list with friends and let them pick the perfect g
 
 ## Live Demo
 
-[Live demo version]() *(coming soon)*
+[[Live demo version]()](https://jengree-dev.github.io/wishlist/)
 
 ## Author
 
