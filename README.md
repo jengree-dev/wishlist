@@ -2,7 +2,7 @@
 
 A pet project wishlist built with Vue.js. Created for frontend development practice and to demonstrate skills with modern technology stack.
 
-**Status**: Actively in development 🚧
+**Status**: Actively in development 🔥
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
@@ -12,14 +12,16 @@ A pet project wishlist built with Vue.js. Created for frontend development pract
 
 A simple web application for creating wish lists. You can add wishes, share your list with friends, and mark fulfilled dreams.
 
-## Features (planned & in progress)
+## Features (done and planned)
 
-- ✅ Add and remove wishes
-- 🚧 Edit existing entries
-- 🚧 Local storage (localStorage)
+- ✅ Supabase integration (backend)
+- ✅ Add wish
+- 🚧 Add wishList
+- 🚧 Link wiah and wishList
+- 🚧 Authorisation
+- 🚧 Create authentication policy (RLS for Supabase)
 - 🚧 Share list via link
-- 🚧 "Fulfilled" status for wishes
-- 🚧 Supabase integration (backend)
+- 🚧 Email notification
 
 ## Tech Stack
 
@@ -40,9 +42,9 @@ A simple web application for creating wish lists. You can add wishes, share your
 - Basic Vue 3 structure
 - Main page with welcome section
 - Vuetify UI components
-- Add wish modal dialog (no saving)
 - Responsive design
 - Supabase integration
+- Add wish modal dialog (saving, Unrestricted)
 
 ## Screenshots
 
