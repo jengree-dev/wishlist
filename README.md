@@ -15,6 +15,7 @@ You can add wishes, share your list with friends, and let them pick the perfect 
 
 - ✅ Supabase integration (backend)
 - ✅ Add wish
+- ✅ Saved wishes display
 - 🚀 Add wishList
 - 🚧 Link wish and wishList
 - 🚧 Edit wishList (checking items)
